@@ -5,7 +5,7 @@ Réalisation d’un jeu de dames version internationale.\
 
 ![PartieEnCours](https://raw.githubusercontent.com/zhak5388/MiscFiles_Projets/main/Pictures/BUT_JeuDames_2.png "Jeu de Dames")
 
-### Highlight 
+### Highlights 
 
 + Implémentation d'un jeu complet de Dames version internationale. Pour plus de commodité pour le joueur, la notation [manoury](http://www.ffjd.fr/Web/index.php?page=notation) est utilisée.
 + Implémentation de la prise majoritaire. La prise majoritaire impose de jouer la pièce qui permet de prendre le nombre maximal de pièces. Par exemple, entre une dame qui permet de prendre 2 pièces adverses et un pion permettant d'en prendre 4, le joueur doit jouer le pion. (Voir méthode [cheminDesPrises](https://github.com/zhak5388/BUT_JeuDeDames/blob/main/src/PriseMajoritaireMethodes.java))
