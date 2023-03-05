@@ -1,4 +1,4 @@
-## BUT JeuDeDames - Premier Semestre
+## BUT - SAÉ - S1 - JeuDeDames 
 Projet de fin du premier semestre de la 1ère année de BUT (Décembre 2022).\
 Réalisation d’un jeu de dames version internationale.\
 **Contraintes imposées :** Jouable sur terminal, utilisation comme structure de données des tableaux et/ou listes, programmation non objet
